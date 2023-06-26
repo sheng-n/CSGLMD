@@ -1,4 +1,5 @@
 # Contrastive self-supervised graph convolutional network for detecting the relationship among lncRNAs, miRNAs, and diseases (CSGLMD)
+![figure1](https://github.com/sheng-n/CSGLMD/assets/95516781/f65730e7-e001-4fb2-8b5a-52b46ed4464e)
 
 ## 1. Overview
 The code for paper "Contrastive self-supervised graph convolutional network for detecting the relationship among lncRNAs, miRNAs, and diseases". The repository is organized as follows:
@@ -30,6 +31,3 @@ Here we provide a example to predict the association scores among lncRNAs, miRNA
 
 ## 4. Contacts
 If you have any questions, please email Nan Sheng (shengnan21@mails.jlu.edu.cn)
-
-## 5. Workflow of GCLMTP
-![模型图](https://user-images.githubusercontent.com/95516781/236208254-813b1165-7679-4252-8534-daf60cb1b940.jpg)
