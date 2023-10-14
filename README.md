@@ -1,6 +1,7 @@
 # Contrastive self-supervised graph convolutional network for detecting the relationship among lncRNAs, miRNAs, and diseases (CSGLMD)
 ![figure1](https://github.com/sheng-n/CSGLMD/assets/95516781/f65730e7-e001-4fb2-8b5a-52b46ed4464e)
 
+## BIBM 2023 accept
 ## 1. Overview
 The code for paper "Contrastive self-supervised graph convolutional network for detecting the relationship among lncRNAs, miRNAs, and diseases". The repository is organized as follows:
 
